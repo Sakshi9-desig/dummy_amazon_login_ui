@@ -8,6 +8,7 @@ import 'package:flutter_mera_app/another_ui_2.dart';
 import 'package:flutter_mera_app/login.dart';
 import 'package:flutter_mera_app/ribbon.dart';
 import 'package:flutter_mera_app/stack_try.dart';
+import 'package:flutter_mera_app/stacked_ui.dart';
 
 void main() => runApp(MyApp());
 
@@ -20,7 +21,8 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: SignPanel()
+      home: SomethingNew()
+      //home: SignPanel()
       //home: Buystuff()
     );
   }

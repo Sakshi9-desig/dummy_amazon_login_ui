@@ -12,8 +12,8 @@ class _SignPanelState extends State<SignPanel> {
     Size size= MediaQuery.of(context).size;
     Orientation orientation = MediaQuery.of(context).orientation;
 
-    return orientation== Orientation.landscape ? Scaffold(body: Center(child:  Text("Landscape mode not available yet!"),)) :
-     SafeArea(
+    //return orientation== Orientation.landscape ? Scaffold(body: Center(child:  Text("Landscape mode not available yet!"),)) :
+     return SafeArea(
       child: Scaffold(
         backgroundColor: Colors.cyan.shade300,
         body:

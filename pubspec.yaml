@@ -48,6 +48,10 @@ flutter:
     - assets/google_plus.png
     - assets/linkedin.png
     - assets/twitter.png
+    - assets/one.png
+    - assets/two.png
+    - assets/four.png
+    - assets/five.png
   #  - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
