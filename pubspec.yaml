@@ -55,6 +55,11 @@ flutter:
     - assets/cactus.png
     - assets/flower.png
     - assets/mountain.png
+    - assets/gift.png
+    - assets/skyscraper.jpg
+    - assets/geometric.png
+    - assets/bush.png
+    - assets/plant.png
   #  - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
