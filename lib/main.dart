@@ -8,6 +8,7 @@ import 'package:flutter_mera_app/animation_2.dart';
 import 'package:flutter_mera_app/animation_3.dart';
 import 'package:flutter_mera_app/another_ui.dart';
 import 'package:flutter_mera_app/another_ui_2.dart';
+import 'package:flutter_mera_app/clipped.dart';
 import 'package:flutter_mera_app/edu_stuff.dart';
 import 'package:flutter_mera_app/login.dart';
 import 'package:flutter_mera_app/new_1.dart';
@@ -50,6 +51,7 @@ class MyApp extends StatelessWidget {
      //home: NewOther(),
       //home: Annie(),
       home: Try(),
+      //home: TryNew(),
     );
   }
 }
